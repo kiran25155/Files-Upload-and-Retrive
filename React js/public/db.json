@@ -1,0 +1,109 @@
+{
+  "name": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "centerId": 2,
+      "centerName": "Center 1",
+      "id": 2
+    }
+  ],
+  "uploadFile": [
+    {
+      "M": "K"
+    },
+    {
+      "centerId": 2,
+      "centerName": "Center 1",
+      "id": 2
+    },
+    {
+      "centerId": 2,
+      "centerName": "Center 1",
+      "id": 3
+    },
+    {
+      "formData": {},
+      "id": 4
+    },
+    {
+      "formData": {},
+      "id": 5
+    },
+    {
+      "formData": 1,
+      "id": 6
+    },
+    {
+      "formData": {},
+      "id": 7
+    },
+    {
+      "file": {},
+      "fileName": "+2..pdf",
+      "id": 8
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 9
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 10
+    },
+    {
+      "file": {},
+      "fileName": "+2..pdf",
+      "id": 11
+    },
+    {
+      "file": {},
+      "fileName": "506-ECard.pdf",
+      "id": 12
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 13
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 14
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 15
+    },
+    {
+      "file": {},
+      "fileName": "+2..pdf",
+      "id": 16
+    },
+    {
+      "file": {},
+      "fileName": "+2..pdf",
+      "id": 17
+    },
+    {
+      "file": {},
+      "fileName": "10TH.pdf",
+      "id": 18
+    },
+    {
+      "file": {},
+      "fileName": "+2..pdf",
+      "id": 19
+    },
+    {
+      "file": "blob:http://localhost:3002/da87bc5d-72e9-4b5a-8768-7f266c350d36",
+      "id": 20
+    }
+  ]
+}
